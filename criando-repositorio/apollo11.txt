@@ -1,2 +1,3 @@
 Data: 20 julho 1969
 Fato: Primeiro vôo tripulado a  pousar  na lua.
+Duração: 8 dias
